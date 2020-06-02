@@ -1,0 +1,15 @@
+th {
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    font-size: 3.5vh;
+}
+
+tr {
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    font-size: 2.90vh;
+}
+
+.sortButton {
+    border-radius: 50px; 
+    background-color: #3e444a;
+    color: white;
+}

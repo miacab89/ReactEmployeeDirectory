@@ -1,0 +1,16 @@
+h1 {
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    font-size: 9.5vh;
+    text-align: center;
+    color: #3e444a; 
+    
+  }
+
+  .directory-logo {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 13%;
+  color: #3e444a
+  }
+  
